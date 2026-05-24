@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ExpertConnect" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Add more theme attributes if needed -->
+    </style>
+</resources>

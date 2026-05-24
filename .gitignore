@@ -1,0 +1,62 @@
+# General
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# Secrets & Configs
+db_pass.txt
+.env
+backend/.env
+android/local.properties
+
+# =========================
+# Android (Kotlin / Gradle)
+# =========================
+android/.gradle/
+android/build/
+android/app/build/
+android/*.iml
+android/.idea/modules.xml
+android/.idea/workspace.xml
+android/.idea/caches/
+android/.idea/libraries/
+android/.idea/assetWizardSettings.xml
+android/.idea/navEditor.xml
+android/.idea/deploymentTargetDropDown.xml
+android/captures/
+android/.externalNativeBuild/
+android/.cxx/
+android/bin/
+android/gen/
+android/keystore.jks
+android/keystore.properties
+
+# =========================
+# Backend (Python / FastAPI)
+# =========================
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+backend/venv/
+backend/.venv/
+backend/env/
+backend/ENV/
+
+# Caches and logs
+backend/.pytest_cache/
+backend/.mypy_cache/
+backend/.ruff_cache/
+backend/pip-log.txt
+backend/pip-delete-this-directory.txt
+backend/celerybeat-schedule
+backend/celerybeat.pid
+
+# Test coverage
+backend/.coverage
+backend/htmlcov/
+backend/.tox/
+backend/.nox/

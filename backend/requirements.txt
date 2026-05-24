@@ -1,0 +1,45 @@
+# =====================================================
+# AI-Powered Expert Booking Platform — Backend
+# Python Dependencies
+# =====================================================
+
+# Web Framework
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9
+
+# Database
+sqlalchemy==2.0.30
+asyncpg==0.29.0
+alembic==1.13.1
+
+# Data Validation
+pydantic==2.7.1
+pydantic-settings==2.2.1
+email-validator==2.1.1
+
+# Authentication / Security
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+bcrypt==4.1.3
+
+# HTTP Client
+httpx==0.27.0
+
+# ML / Recommendation Engine
+scikit-learn
+pandas
+numpy
+
+# Firebase Cloud Messaging
+firebase-admin==6.5.0
+
+# Environment
+python-dotenv==1.0.1
+
+# WebSockets
+websockets==12.0
+
+# Utilities
+python-dateutil==2.9.0.post0
+pytz==2024.1

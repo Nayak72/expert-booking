@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "771102590760",
+    "project_id": "expert-booking-83dc5",
+    "storage_bucket": "expert-booking-83dc5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771102590760:android:3c05a24c32983216ec721d",
+        "android_client_info": {
+          "package_name": "com.expertconnect.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVDCW-4W1ifkWEzkv_JgnOWoByWz2xDmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
